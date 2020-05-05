@@ -38,4 +38,4 @@
 
 ### Running the ipython notebook
 To run the notebook **predict.ipynb**, navigate to top level directory and type the following command on your terminal or command prompt :-
-`jupyter notebook predict.ipynb`
+`jupyter notebook credit_risk_customers.ipynb`
